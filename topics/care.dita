@@ -20,7 +20,7 @@
                     <colspec colname="newCol3" colnum="3" colwidth="200px"/>
                     <thead>
                         <row>
-                            <entry>Flower</entry>
+                            <entry>Extra Text Flower</entry>
                             <entry>Type</entry>
                             <entry>Soil</entry>
                         </row>
