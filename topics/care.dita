@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="care">
-    <title>Conf主’—╥他</title>
+    <title>Care主’—╥他</title>
     <body>
         <p>When caring for your flower garden you waasdasdasdasnt to feed your plants properly,
             control pests and weeds. Good soil is a must to successful gardening, landscaping, and
@@ -20,7 +20,7 @@
                     <colspec colname="newCol3" colnum="3" colwidth="200px"/>
                     <thead>
                         <row>
-                            <entry>Extra Text Flower</entry>
+                            <entry>Flower</entry>
                             <entry>Type</entry>
                             <entry>Soil</entry>
                         </row>
