@@ -1,0 +1,3 @@
+language: dita
+build:
+ - publish.sh && deploy.sh
