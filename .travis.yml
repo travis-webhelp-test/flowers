@@ -1,3 +1,11 @@
 language: dita
+install:
+ - echo "Installed"
 build:
- - publish.sh && deploy.sh
+ - sh deploy.sh && publish.sh
+env:
+ global:
+ - ANT_OPTS=-Xmx1024M
+
+
+
